@@ -1,3 +1,3 @@
-# CoWorld-VLA:Thinking in a Multi-Expert World Model for Autonomous Driving
+# CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving
 
 To be continued
